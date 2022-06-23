@@ -18,18 +18,18 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288973218166','6288973218166','6288973218166']
-global.premium = ['6288973218166']
-global.ownernomer = '6288973218166'
-global.ownername = 'ZO.Dress'
-global.botname = 'KurumiBots-Md'
-global.footer = 'ZO.Dress'
+global.owner = ['6281291482615','6281291482615','6281291482615']
+global.premium = ['6281291482615']
+global.ownernomer = '6281291482615'
+global.ownername = 'CLayy'
+global.botname = 'Farsbots-Md'
+global.footer ='CLayy'
 global.ig = 'https://instagram.com/reihan_arthur?igshid=YmMyMTA2M2Y='
-global.email = 'Zodress@gmail.com'
+global.email = 'CLayy@gmail.com'
 global.region = 'Indonesia'
 global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.myweb = 'https://bit.ly/3Om8D5j'
-global.packname = 'KurumiBots-Md'
+global.packname = 'Farsbot-Md'
 global.author = 'Ganteng'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
